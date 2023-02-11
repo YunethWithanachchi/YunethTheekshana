@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuneth Theekshana</h1>
+<h1 align="center">Software Engineer</h1>
+<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuneththeekshana&label=Profile%20views&color=0e75b6&style=flat" alt="yuneththeekshana" /> </p>
